@@ -1,4 +1,4 @@
-# Water Extent Mapping in Flood-Event Scenes with Sentinel-1 and Sentinel-2
+# Water Extent Mapping in Flood-Event with Sentinel-1 and Sentinel-2
 
 **A multi-seed comparison of SAR-only, optical-only, and fused U-Net models against an NDWI baseline on the Sen1Floods11 benchmark**
 
