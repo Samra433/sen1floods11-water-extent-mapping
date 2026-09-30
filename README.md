@@ -57,9 +57,7 @@ flood-event-water-mapping/
 │   └── flood_event_water_mapping.ipynb
 ├── data/
 │   └── README.md
-├── images/
 ├── results/
-├── checkpoints/
 └── .gitignore
 ```
 
